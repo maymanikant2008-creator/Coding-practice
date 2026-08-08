@@ -1,2 +1,2 @@
 # Coding-practice
-MY C,C++AND DSA PRACTICE 
+MY C,C++ AND DSA PRACTICE 
